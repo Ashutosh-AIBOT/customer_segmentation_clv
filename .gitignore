@@ -1,0 +1,17 @@
+# Machine Learning Artifacts
+data/
+
+# Deployment
+hf_deploy.py
+.env
+.ipynb_checkpoints/
+__pycache__/
+
+# Large Data
+*.csv
+*.xlsx
+*.zip
+*.pyc
+.ruff_cache/
+*.log
+.DS_Store
