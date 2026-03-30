@@ -2,8 +2,6 @@
 
 Behavioral segmentation with customer lifetime value intelligence.
 
-## Recommended GitHub Repo Name
-
 customer-segmentation-clv-intelligence
 
 ## Domain
